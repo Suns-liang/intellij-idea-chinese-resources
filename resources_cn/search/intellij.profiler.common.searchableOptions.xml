@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<options>
+  <configurable id="preferences.keymap" configurable_name="Keymap">
+    <option name="" path="ActionManager" hit="" />
+    <option name="attach" path="ActionManager" hit="Attach Profiler to Process..." />
+    <option name="process" path="ActionManager" hit="Attach Profiler to Process..." />
+    <option name="profiler" path="ActionManager" hit="Attach Profiler to Process..." />
+    <option name="to" path="ActionManager" hit="Attach Profiler to Process..." />
+    <option name="an" path="ActionManager" hit="Attach to process with an available profiler" />
+    <option name="attach" path="ActionManager" hit="Attach to process with an available profiler" />
+    <option name="available" path="ActionManager" hit="Attach to process with an available profiler" />
+    <option name="process" path="ActionManager" hit="Attach to process with an available profiler" />
+    <option name="profiler" path="ActionManager" hit="Attach to process with an available profiler" />
+    <option name="to" path="ActionManager" hit="Attach to process with an available profiler" />
+    <option name="with" path="ActionManager" hit="Attach to process with an available profiler" />
+    <option name="configurations" path="ActionManager" hit="Edit profiler configurations..." />
+    <option name="edit" path="ActionManager" hit="Edit profiler configurations..." />
+    <option name="profiler" path="ActionManager" hit="Edit profiler configurations..." />
+    <option name="import" path="ActionManager" hit="Import Profiler Result" />
+    <option name="profiler" path="ActionManager" hit="Import Profiler Result" />
+    <option name="result" path="ActionManager" hit="Import Profiler Result" />
+    <option name="cpu" path="ActionManager" hit="JVM CPU Profiler" />
+    <option name="jvm" path="ActionManager" hit="JVM CPU Profiler" />
+    <option name="profiler" path="ActionManager" hit="JVM CPU Profiler" />
+    <option name="debug" path="ActionManager" hit="Run/Debug" />
+    <option name="run" path="ActionManager" hit="Run/Debug" />
+  </configurable>
+</options>
+

@@ -1,2 +1,7 @@
 # intellij-idea-chinese-resources
-idea 中文翻译
+
+# 使用版本：
+ideaIU 2019.1 中文
+
+# 翻译进度(估计)：
+完成率 10%

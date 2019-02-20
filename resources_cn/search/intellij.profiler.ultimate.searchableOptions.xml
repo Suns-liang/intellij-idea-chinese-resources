@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<options>
+  <configurable id="dynamic.analysis.tools.profiler.jvm" configurable_name="Profiler">
+    <option name="" hit="    a, a:link {color:#589df6;} a:visited {color:#800080;} a:hover {color:#589df6;} a:active {color:#f00000;}      At least OracleJRE 9 or OpenJRE 11 is required to import dump   " />
+    <option name="11" hit="    a, a:link {color:#589df6;} a:visited {color:#800080;} a:hover {color:#589df6;} a:active {color:#f00000;}      At least OracleJRE 9 or OpenJRE 11 is required to import dump   " />
+    <option name="589df6" hit="    a, a:link {color:#589df6;} a:visited {color:#800080;} a:hover {color:#589df6;} a:active {color:#f00000;}      At least OracleJRE 9 or OpenJRE 11 is required to import dump   " />
+    <option name="800080" hit="    a, a:link {color:#589df6;} a:visited {color:#800080;} a:hover {color:#589df6;} a:active {color:#f00000;}      At least OracleJRE 9 or OpenJRE 11 is required to import dump   " />
+    <option name="9" hit="    a, a:link {color:#589df6;} a:visited {color:#800080;} a:hover {color:#589df6;} a:active {color:#f00000;}      At least OracleJRE 9 or OpenJRE 11 is required to import dump   " />
+    <option name="a" hit="    a, a:link {color:#589df6;} a:visited {color:#800080;} a:hover {color:#589df6;} a:active {color:#f00000;}      At least OracleJRE 9 or OpenJRE 11 is required to import dump   " />
+    <option name="active" hit="    a, a:link {color:#589df6;} a:visited {color:#800080;} a:hover {color:#589df6;} a:active {color:#f00000;}      At least OracleJRE 9 or OpenJRE 11 is required to import dump   " />
+    <option name="at" hit="    a, a:link {color:#589df6;} a:visited {color:#800080;} a:hover {color:#589df6;} a:active {color:#f00000;}      At least OracleJRE 9 or OpenJRE 11 is required to import dump   " />
+    <option name="color" hit="    a, a:link {color:#589df6;} a:visited {color:#800080;} a:hover {color:#589df6;} a:active {color:#f00000;}      At least OracleJRE 9 or OpenJRE 11 is required to import dump   " />
+    <option name="dump" hit="    a, a:link {color:#589df6;} a:visited {color:#800080;} a:hover {color:#589df6;} a:active {color:#f00000;}      At least OracleJRE 9 or OpenJRE 11 is required to import dump   " />
+    <option name="f00000" hit="    a, a:link {color:#589df6;} a:visited {color:#800080;} a:hover {color:#589df6;} a:active {color:#f00000;}      At least OracleJRE 9 or OpenJRE 11 is required to import dump   " />
+    <option name="hover" hit="    a, a:link {color:#589df6;} a:visited {color:#800080;} a:hover {color:#589df6;} a:active {color:#f00000;}      At least OracleJRE 9 or OpenJRE 11 is required to import dump   " />
+    <option name="import" hit="    a, a:link {color:#589df6;} a:visited {color:#800080;} a:hover {color:#589df6;} a:active {color:#f00000;}      At least OracleJRE 9 or OpenJRE 11 is required to import dump   " />
+    <option name="is" hit="    a, a:link {color:#589df6;} a:visited {color:#800080;} a:hover {color:#589df6;} a:active {color:#f00000;}      At least OracleJRE 9 or OpenJRE 11 is required to import dump   " />
+    <option name="least" hit="    a, a:link {color:#589df6;} a:visited {color:#800080;} a:hover {color:#589df6;} a:active {color:#f00000;}      At least OracleJRE 9 or OpenJRE 11 is required to import dump   " />
+    <option name="link" hit="    a, a:link {color:#589df6;} a:visited {color:#800080;} a:hover {color:#589df6;} a:active {color:#f00000;}      At least OracleJRE 9 or OpenJRE 11 is required to import dump   " />
+    <option name="openjre" hit="    a, a:link {color:#589df6;} a:visited {color:#800080;} a:hover {color:#589df6;} a:active {color:#f00000;}      At least OracleJRE 9 or OpenJRE 11 is required to import dump   " />
+    <option name="or" hit="    a, a:link {color:#589df6;} a:visited {color:#800080;} a:hover {color:#589df6;} a:active {color:#f00000;}      At least OracleJRE 9 or OpenJRE 11 is required to import dump   " />
+    <option name="oraclejre" hit="    a, a:link {color:#589df6;} a:visited {color:#800080;} a:hover {color:#589df6;} a:active {color:#f00000;}      At least OracleJRE 9 or OpenJRE 11 is required to import dump   " />
+    <option name="required" hit="    a, a:link {color:#589df6;} a:visited {color:#800080;} a:hover {color:#589df6;} a:active {color:#f00000;}      At least OracleJRE 9 or OpenJRE 11 is required to import dump   " />
+    <option name="to" hit="    a, a:link {color:#589df6;} a:visited {color:#800080;} a:hover {color:#589df6;} a:active {color:#f00000;}      At least OracleJRE 9 or OpenJRE 11 is required to import dump   " />
+    <option name="visited" hit="    a, a:link {color:#589df6;} a:visited {color:#800080;} a:hover {color:#589df6;} a:active {color:#f00000;}      At least OracleJRE 9 or OpenJRE 11 is required to import dump   " />
+    <option name="home" hit="JRE home:" />
+    <option name="jre" hit="JRE home:" />
+    <option name="flight" hit="Java Flight Recorder" />
+    <option name="java" hit="Java Flight Recorder" />
+    <option name="recorder" hit="Java Flight Recorder" />
+    <option name="profiler" hit="Profiler" />
+  </configurable>
+</options>
+
